@@ -35,10 +35,12 @@ Throughout our study, we will try to answer different research questions :
 
 ### Proposed timeline
 
-- Separation by channel behavior : classify (increase, decrease, stagnate) according to the channel metrics. 
-- Does those groups change overtime ? Do channels go from one to another ? 
+We will divide the overall project into 3 main parts : 
 
+- Dataset exploratory analysis : this consists solely of studying the raw data we have, plotting the timseries, in order to get preliminary results and to have a first sighting about the behaviors and trends that can be found in the dataset.
 
+- Separation by channel behavior : here, the goal is to classify into several clusters channels to have similar behaviors according to their metrics. Channels to grow or shrink in a similar manner (channels that have a similar number of likes over time for examples). This first aggregation of the data will be useful in order to detect pattern and better see what metric can be seen as a potential indicator.
+- Prediction and indicator selection : after completion of the two previous parts, the final one will be to determine what indicator are significant for predicting a channel evolution. Here, we want to see if by taking a proportion of channels, we can predict the evolution of the other ones according to their metrics.
 
 
 ### Organization within the team
