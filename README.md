@@ -52,3 +52,5 @@ The different internal milestones will consist of the several step described in 
 ### Questions for TAs
 
 - Missing/weird data : while exploring the timeseries dataset, we saw that there was a huge missing chunk of data before November 2016 (affecting multiple metrics : views, subscribers, etc...). This can be seen in one of the graph we have in the jupyter notebook. Therefore, we planned to only take into account data after this date. We were thinking about replacing this missing data by the mean for example but for a part of as big as this one it would be too much extrapolation.
+- Outliers : how much should we care about outliers in our time series data ? Is a technique like ThymeBoost adapted to handle them ? Is it worth it to use it globally ?
+- Clustering : do you recommend a specific technique for clustering our time series data between the ones that we present ?
