@@ -1,3 +1,14 @@
+# Project Milestone 3 : John on his Youniverse journey
+
+- Website url : eloigrndl.github.io
+
+Workload distribution :
+- Antoine Daeniker : focus on Outliers analysis, help other members of the group
+- Kilian d'Eternod : focus on Clustering analysis, help other members of the group
+- Eloi Garandel : focus on Data Explroation and Website layout, help other members of the group
+- Rafael Mozo : help other members of the group
+
+
 # Project Milestone 2 : The (predictable ?) rise and fall of YouTube stars
 
 Milestone P2 by the PinaColADA Team : Eloi Garandel, Kilian d'Eternod, Antoine Daeniker & Rafael Mozo. This project aims to perform a deep analysis on the Youniverse dataset.
