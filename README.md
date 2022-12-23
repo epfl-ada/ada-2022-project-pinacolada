@@ -1,6 +1,6 @@
 # Project Milestone 3 : John on his Youniverse journey
 
-- Website url : eloigrndl.github.io
+- Data story website url : eloigrndl.github.io
 
 Workload distribution :
 - Antoine Daeniker : focus on Outliers analysis, help other members of the group
